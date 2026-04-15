@@ -6,11 +6,14 @@ This repository is an official repository of the paper "ELTLM: Evaluation of Lon
 ## Release
 - [April 15, 2026] ELTLM-Bench is realesed.
 - [April 07, 2026] ELTLM-Bench is accepted by ACL 2026 Findings.
-## Test set
-Our test set has been provided in the file directory, located at `test.json`.
+## Data download
+Our data has been released on Hugging face [ELTLM-Bench](https://huggingface.co/datasets/Chengfeng233/ELTLM-Bench).
 We have provided all the questions and standard answers. 
+
 Access Requirement:
+
 Due to ethical concerns, users and developers must obtain the [PhysioNet Credentialed Health Data License 1.5.0.](https://physionet.org/content/mimic-cxr/view-license/2.1.0/)
+
 To access MIMIC-CXR, please click on [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.1.0/)
 ## Citation
 If you think our work has been helpful to you, please cite our article. This is extremely important for us! Thank you again!
