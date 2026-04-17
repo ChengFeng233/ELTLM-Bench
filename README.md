@@ -24,5 +24,12 @@ Access Requirement:
 ## 📖 Citation
 If you think our work has been helpful to you, please cite our article. This is extremely important for us! Thank you again!
 ```bibtex
-
+@inproceedings{
+anonymous2026eltlm,
+title={{ELTLM}: Evaluation of Longitudinal Temporal Large Multimodal Models in Clinical Scenarios},
+author={Anonymous},
+booktitle={The 64th Annual Meeting of the Association for Computational Linguistics},
+year={2026},
+url={https://openreview.net/forum?id=dHQBIUG5AZ}
+}
 ```
